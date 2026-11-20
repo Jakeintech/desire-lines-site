@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /desire-lines-site/tools/
+
+Sitemap: https://jakeintech.github.io/desire-lines-site/sitemap.xml

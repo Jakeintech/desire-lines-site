@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<!-- Source for assets/img/og.png (1200 x 630). Colours are the game's design tokens. Rendered with tools/render.sh. -->
+<rect width="1200" height="630" fill="#1F2A26"/>
+<g font-family="'Avenir Next', 'Helvetica Neue', Arial, sans-serif">
+<text x="72" y="282" font-size="96" font-weight="700" fill="#FBF6E9" letter-spacing="-2">Desire Lines</text>
+<text x="74" y="356" font-size="46" font-weight="600" fill="#B9D8A4">Pave where they walk.</text>
+<text x="76" y="424" font-size="27" font-weight="500" fill="#A9B4A8">A strategy game for iPhone and iPad</text>
+</g>
+<svg x="650" y="65" width="500" height="500" viewBox="0 0 240 240">
+<defs><clipPath id="r"><rect width="240" height="240" rx="22"/></clipPath>
+<pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M.5 0V24M0 .5H24" stroke="#A6CB90" fill="none"/></pattern></defs>
+<g clip-path="url(#r)">
+<rect width="240" height="240" fill="#B9D8A4"/><rect width="240" height="240" fill="url(#g)"/>
+<path d="M60 228V213.94A24 24 0 0 1 67.03 196.97L172.97 91.03A24 24 0 0 1 189.94 84" fill="none" stroke="#B98A3E" stroke-width="14" stroke-linecap="round"/>
+<path d="M60 250V108A24 24 0 0 1 84 84H250" fill="none" stroke="#8FB97A" stroke-width="18"/>
+<path d="M60 250V108A24 24 0 0 1 84 84H250" fill="none" stroke="#FBF6E9" stroke-width="14"/>
+<g fill="#1F2A26" fill-opacity=".18"><circle cx="94" cy="174" r="3.8"/><circle cx="122" cy="146" r="3.8"/><circle cx="150" cy="118" r="3.8"/><circle cx="212" cy="86" r="3.8"/></g>
+<circle cx="92" cy="172" r="4.2" fill="#2C8580"/><circle cx="120" cy="144" r="4.2" fill="#CF5A3B"/><circle cx="148" cy="116" r="4.2" fill="#2C8580"/><circle cx="210" cy="84" r="4.2" fill="#3F5FA8"/>
+<circle cx="60" cy="140" r="8.5" fill="#FBF6E9" stroke="#B93424" stroke-width="2.5"/><circle cx="60" cy="140" r="4" fill="#B93424"/>
+</g>
+</svg>
+</svg>
