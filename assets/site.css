@@ -255,3 +255,8 @@ a:hover { color: var(--cream); }
   .campuses { grid-template-columns: repeat(4, 1fr); }
   .modes { grid-template-columns: repeat(4, 1fr); }
 }
+
+/* Screenshots: phone captures in a rounded frame. */
+.steps.shots figure { margin: 0; }
+.steps.shots img { width: 100%; max-width: 330px; height: auto; margin: 0 auto; border-radius: 28px; border: 1px solid rgba(255, 255, 255, 0.14); display: block; }
+.steps.shots figcaption { font-size: 14px; color: var(--muted); text-align: center; margin-top: 12px; }
